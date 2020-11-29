@@ -76,25 +76,15 @@
    - Pisanje = B2
                 
 ---
-## **7. Digitalne Vještine**
----
-## **8. Hobiji i interesi**
-* **Naziv:** 
-* **Opis:**
----
-## **9. Komunikacijske i međuljudske vještine**
-* **Naziv:**
-* **Opis:**
----
-## **10. Organizacijske vještine:**
-* **Naziv:**
-* **Opis:**
----
-## **11. Vještine/iskustvo upravljanja i rukovođenja** 
-* **Naziv:**
-* **Opis:**
----
-## **12. Vozačka dozvola:** 
+## **7. Digitalne vještine:**
+
+Uredsko poslovanje | Osnove programskih jezika | Sustavi za verzioniranje i suradnički rad  
+| - | - | -
+Word | Python |  Git
+Excel | C | GitHub
+Powerpoint | C++ | Google Drive
+
+## **8. Vozačka dozvola:** 
 Automobil: B
 
 
